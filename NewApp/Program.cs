@@ -10,7 +10,7 @@ namespace NewApp
     {
         static void Main(string[] args)
         {
-            //test command
+            //test command new
         }
     }
 }
