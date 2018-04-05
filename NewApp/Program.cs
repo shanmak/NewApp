@@ -10,7 +10,7 @@ namespace NewApp
     {
         static void Main(string[] args)
         {
-            //test command new
+            //test command new github
         }
     }
 }
